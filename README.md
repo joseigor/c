@@ -2,7 +2,7 @@
 
 This repository contains a list of articles about C programming language:
 
-1.[How C code is compiled : A deep view from main.c to a.out](https://medium.com/@joseigorcfm/copy-constructor-in-c-49d479daa5c8)
+1. [How C code is compiled : A deep view from main.c to a.out](https://medium.com/@joseigorcfm/copy-constructor-in-c-49d479daa5c8)
 
 
 ### Please note:
