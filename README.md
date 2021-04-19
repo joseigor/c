@@ -7,7 +7,7 @@ This repository contains a list of articles about C programming language:
 
 ### Please note:
 
-- This list will be apdated as soon as new content is produced.
+- This list will be updated as soon as new content is produced.
 - You are more than welcome to contribute in this project and help other to learn C language.
 - Is there a topic that you want to see tha wasn't covered yet, let me know: create a _pull request_ or send an email to *joseigorcfm@gmail.com*.
 
